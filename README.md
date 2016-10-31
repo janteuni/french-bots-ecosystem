@@ -23,6 +23,7 @@ Table of Contents
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
 * [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
 * [Argoz](http://www.argoz.io/) - Nous développons des ChatBots intelligents sur Messenger, Slack et Telegram.
+* [Conv](http://www.conv.ai/) - Powered by best Artificial Intelligence algorithms, we design, develop and train intelligent chatbots to boost your business.
 
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
@@ -42,6 +43,10 @@ Table of Contents
 ## Slack groups
 * [Paris Bots](https://parisbots.herokuapp.com/)
 * [Recast.AI community](https://slack.recast.ai/)
+
+## Publications
+* [Chatbots Magazine](https://chatbotsmagazine.com/)
+* [Chatbots Magazine](https://chatbotsmagazine.com/)
 
 ## License
 
