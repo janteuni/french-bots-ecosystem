@@ -8,18 +8,18 @@
 Table of Contents
 -----------------
 
-- [Bot's building tools](#bot-s-building-tools)
+- [Bot building tools](#bot-building-tools)
 - [Chatbot agency](#chatbot-agency)
 - [French bots](#french-bots)
-- [Upcomming events](#upcoming-events)
+- [Upcoming events](#upcoming-events)
 - [Meetups](#meetups)
 - [Slack groups](#slack-groups)
 
-## Bot's building tools
+## Bot building tools
 * [Recast.AI](https://recast.ai?ref=github-bots) - Collaborative Bot Platform for developers: build conversational bots easily.
 
 ## Chatbot agency
-* [The chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
+* [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
 * [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
 * [Argoz](http://www.argoz.io/) - Nous développons des ChatBots intelligents sur Messenger, Slack et Telegram.
 
