@@ -17,6 +17,7 @@ Table of Contents
 
 ## Bot building tools
 * [Recast.AI](https://recast.ai?ref=github-bots) - Collaborative Bot Platform for developers: build conversational bots easily.
+* [Smartly](http://smartly.ai/) - All-in-one platform for voice and chatbots.
 
 ## Chatbot agency
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
