@@ -23,7 +23,8 @@ Table of Contents
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
 * [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
 * [Argoz](http://www.argoz.io/) - Nous développons des ChatBots intelligents sur Messenger, Slack et Telegram.
-* [Zelros](http://http://www.zelros.com/) - Turn Enterprise Data into conversational assistants
+* [Zelros](http://www.zelros.com/) - Turn Enterprise Data into conversational assistants
+
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
 * [Voyages-sncf](https://www.facebook.com/VbotMessenger/) - Un bot spécialiste du voyage en train.
