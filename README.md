@@ -18,10 +18,11 @@ Table of Contents
 ## Bot building tools
 * [Recast.AI](https://recast.ai?ref=github-bots) - Collaborative Bot Platform for developers: build conversational bots easily.
 * [Smartly](http://smartly.ai/) - All-in-one platform for voice and chatbots.
+* [Craft.ai](http://www.craft.ai/) - With craft ai, developers create services that adapt to each user in minutes. craft ai agents continuously take decisions based on context and learning.
+* [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
 
 ## Chatbot agency
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
-* [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
 * [Argoz](http://www.argoz.io/) - Nous développons des ChatBots intelligents sur Messenger, Slack et Telegram.
 * [Zelros](http://www.zelros.com/) - Turn Enterprise Data into conversational assistants
 
@@ -29,9 +30,10 @@ Table of Contents
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
 * [Voyages-sncf](https://www.facebook.com/VbotMessenger/) - Un bot spécialiste du voyage en train.
 * [Sleek](https://www.messenger.com/t/184343611989882) - Votre assistant dédié à la culture.
+* [Birdly](https://www.getbirdly.com/) - The bridge between salesforce and slack.
+
 
 ## Upcoming events
-* [Meetup](https://www.meetup.com/Chatbots-Paris/events/231620389/) - *03/11/2016*, _Paris_ - Les chatbots attaquent le E-commerce
 * [Startup weekend](http://www.up.co/communities/france/paris/startup-weekend/9223) - *04/11/2016*, _Paris_ - The first Startup Weekend dedicated to artificial intelligence
 * [Hackathon](http://hackathonprioriteclient.airfrance.fr/?utm_source=bma&utm_medium=events&utm_content=&utm_campaign=afprioriteclient) - *25/11/2016*, _Paris_ - Airfrance, 48h pour améliorer l'expérience de voyage en cas d'irrégularité!
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
