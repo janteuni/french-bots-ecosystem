@@ -16,19 +16,23 @@ Table of Contents
 - [Slack groups](#slack-groups)
 
 ## Bot building tools
-* [Recast.AI](https://recast.ai?ref=github-bots) - Collaborative Bot Platform for developers: build conversational bots easily.
+* [Recast.AI](https://recast.ai?ref=github-bots) - Collaborative Bot Platform, build your own conversational bot!
 * [Smartly](http://smartly.ai/) - All-in-one platform for voice and chatbots.
 
 ## Chatbot agency
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
-* [Botfuel](http://botfuel.io/) - Plateforme de développement de bots pour les entreprises.
+* [Botfuel](http://botfuel.io/) - Enterprise-ready chatbots
 * [Argoz](http://www.argoz.io/) - Nous développons des ChatBots intelligents sur Messenger, Slack et Telegram.
 * [Zelros](http://www.zelros.com/) - Turn Enterprise Data into conversational assistants
+* [Mellowbots](http://mellowbots.com/) - We build bots for your company
+* [Gabber.ai](http://gabber.ai/) - Nous développons votre bot pour accélérer votre business
+* [Livebotter](http://www.livebotter.com/) - We build Messenger chatbots for brands
 
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
 * [Voyages-sncf](https://www.facebook.com/VbotMessenger/) - Un bot spécialiste du voyage en train.
 * [Sleek](https://www.messenger.com/t/184343611989882) - Votre assistant dédié à la culture.
+* [Destygo](http://www.destygo.com/) - Agence de voyage business, améliorez le service client et simplifiez les interactions avec vos agents
 
 ## Upcoming events
 * [Meetup](https://www.meetup.com/Chatbots-Paris/events/231620389/) - *03/11/2016*, _Paris_ - Les chatbots attaquent le E-commerce
