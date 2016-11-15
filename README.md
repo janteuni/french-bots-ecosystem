@@ -35,6 +35,7 @@ Table of Contents
 * [Sleek](https://www.messenger.com/t/184343611989882) - Votre assistant dédié à la culture.
 * [Birdly](https://www.getbirdly.com/) - The bridge between salesforce and slack.
 * [Destygo](http://www.destygo.com/) - Agence de voyage business, améliorez le service client et simplifiez les interactions avec vos agents
+* [Mmmh](http://www.mmmh.fr/) - 1er conseiller culinaire sur-mesure disponible H24 dans ta poche.
 
 ## Upcoming events
 * [Hackathon](http://hackathonprioriteclient.airfrance.fr/?utm_source=bma&utm_medium=events&utm_content=&utm_campaign=afprioriteclient) - *25/11/2016*, _Paris_ - Airfrance, 48h pour améliorer l'expérience de voyage en cas d'irrégularité!
