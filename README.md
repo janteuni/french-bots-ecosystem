@@ -39,6 +39,7 @@ Table of Contents
 
 ## Upcoming events
 * [Hackathon](http://hackathonprioriteclient.airfrance.fr/?utm_source=bma&utm_medium=events&utm_content=&utm_campaign=afprioriteclient) - *25/11/2016*, _Paris_ - Airfrance, 48h pour améliorer l'expérience de voyage en cas d'irrégularité!
+* [Hackathon](http://cityzenbotshackathon.bemyapp.com/) - *9/12/2016*, _Paris_ - Un challenge Smart City à base de Bots Citoyens avec Cisco!
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
 
 ## Meetups
