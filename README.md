@@ -37,6 +37,7 @@ Table of Contents
 * [Destygo](http://www.destygo.com/) - Agence de voyage business, améliorez le service client et simplifiez les interactions avec vos agents
 * [Mmmh](http://www.mmmh.fr/) - 1er conseiller culinaire sur-mesure disponible H24 dans ta poche.
 * [Digitick](https://www.messenger.com/t/digitick.bot/) - Vos cadeaux en 2 minutes sur facebook messenger !
+* [MailClark](https://mailclark.ai/) - Your team’s bot for external communications
 
 ## Upcoming events
 * [Hackathon](http://cityzenbotshackathon.bemyapp.com/) - *9/12/2016*, _Paris_ - Un challenge Smart City à base de Bots Citoyens avec Cisco!
