@@ -41,8 +41,6 @@ Table of Contents
 * [LeBonBot](http://lebonbot.com/) - L'ami des chatbots
 
 ## Upcoming events
-* [Hackathon](http://cityzenbotshackathon.bemyapp.com/) - *9/12/2016*, _Paris_ - Un challenge Smart City à base de Bots Citoyens avec Cisco!
-* [Conferences](http://www.apidays.io/events/paris-2016) - *13 - 14/12/2016*, _Paris_ - APIDays: Join 1200+ Developers, Architects and Innovation Managers to talk about the API and Microservice revolution
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
 
 ## Meetups
