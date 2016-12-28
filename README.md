@@ -39,6 +39,7 @@ Table of Contents
 * [Digitick](https://www.messenger.com/t/digitick.bot/) - Vos cadeaux en 2 minutes sur facebook messenger !
 * [MailClark](https://mailclark.ai/) - Your team’s bot for external communications
 * [LeBonBot](http://lebonbot.com/) - L'ami des chatbots
+* [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
 
 ## Upcoming events
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
