@@ -42,8 +42,8 @@ Table of Contents
 * [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
 
 ## Upcoming events
-* [RemixJobs day](https://www.meetup.com/RJ-Talks/events/236372859/) - *11/01/2017*, _Paris_ - RJTALK PARIS : Chatbot - Loopback - AWS
 * [Meetup](https://www.meetup.com/Chatbots-Paris/events/234414246/) - *12/01/2017*, _Paris_ -  Les chatbots de contenus/médias
+* [Meetup](https://www.meetup.com/Tech-Lunch/events/236190920/) - *25/01/2017*,  _Paris_ - TechLunch #7: Chatbots
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
 
 ## Meetups
