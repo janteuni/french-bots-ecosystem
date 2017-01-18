@@ -28,6 +28,10 @@ Table of Contents
 * [Mellowbots](http://mellowbots.com/) - We build bots for your company
 * [Gabber.ai](http://gabber.ai/) - Nous développons votre bot pour accélérer votre business
 * [Livebotter](http://www.livebotter.com/) - We build Messenger chatbots for brands
+* [BOTBNATION AI](http://botnation.ai/) - Let us make a chatbot for you!
+* [BotFather](http://www.botfather.ai/) - Chatbots for Brands to bring back the conversation into the customer journey
+* [MyBotShopper](https://www.mybotshopper.com/) - MyBotShopper vous permet d'interagir directement avec vos utilisateurs sur facebook
+* [OhMyBot](http://www.ohmybot.io/) - Bienvenue dans l'ère des bots!
 
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
@@ -42,7 +46,6 @@ Table of Contents
 * [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
 
 ## Upcoming events
-* [Meetup](https://www.meetup.com/Chatbots-Paris/events/234414246/) - *12/01/2017*, _Paris_ -  Les chatbots de contenus/médias
 * [Meetup](https://www.meetup.com/Tech-Lunch/events/236190920/) - *25/01/2017*,  _Paris_ - TechLunch #7: Chatbots
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
 
