@@ -30,6 +30,7 @@ Table of Contents
 * [Livebotter](http://www.livebotter.com/) - We build Messenger chatbots for brands
 * [BOTBNATION AI](http://botnation.ai/) - Let us make a chatbot for you!
 * [BotFather](http://www.botfather.ai/) - Chatbots for Brands to bring back the conversation into the customer journey
+* [bottomatik](http://bottomatik.com) - Chatbots that integrate people
 * [MyBotShopper](https://www.mybotshopper.com/) - MyBotShopper vous permet d'interagir directement avec vos utilisateurs sur facebook
 * [OhMyBot](http://www.ohmybot.io/) - Bienvenue dans l'ère des bots!
 
