@@ -45,6 +45,7 @@ Table of Contents
 * [MailClark](https://mailclark.ai/) - Your team’s bot for external communications
 * [LeBonBot](http://lebonbot.com/) - L'ami des chatbots
 * [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
+* [L2-B2](http://m.me/hellolabringue) - Le guide de sorties pour bringueurs.
 
 ## Upcoming events
 * [Meetup](https://www.meetup.com/Tech-Lunch/events/236190920/) - *25/01/2017*,  _Paris_ - TechLunch #7: Chatbots
