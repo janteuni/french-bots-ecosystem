@@ -33,6 +33,7 @@ Table of Contents
 * [bottomatik](http://bottomatik.com) - Chatbots that integrate people
 * [MyBotShopper](https://www.mybotshopper.com/) - MyBotShopper vous permet d'interagir directement avec vos utilisateurs sur facebook
 * [OhMyBot](http://www.ohmybot.io/) - Bienvenue dans l'ère des bots!
+* [PlayBots](http://playbots.io/) - Convert your leads with your best product expert 24/7
 
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
@@ -48,7 +49,6 @@ Table of Contents
 * [L2-B2](http://m.me/hellolabringue) - Le guide de sorties pour bringueurs.
 
 ## Upcoming events
-* [Meetup](https://www.meetup.com/Tech-Lunch/events/236190920/) - *25/01/2017*,  _Paris_ - TechLunch #7: Chatbots
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
 
 ## Meetups
