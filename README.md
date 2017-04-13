@@ -47,9 +47,11 @@ Table of Contents
 * [LeBonBot](http://lebonbot.com/) - L'ami des chatbots
 * [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
 * [L2-B2](http://m.me/hellolabringue) - Le guide de sorties pour bringueurs.
+* [Ask Mona](http://askmona.fr/) - Ask Mona te conseille des sorties culturelles qui collent à tes envies
 
 ## Upcoming events
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
+* [Meetup](https://www.meetup.com/Chatbots-Paris/events/238084580/) - *02/05/2017*, _Paris_ - Chatbots for the workplace with Jason Roche, Developer Advocate, Slack
 
 ## Meetups
 * [Paris Bots Meetup](http://www.meetup.com/fr-FR/Paris-Bots-Meetup/) - Bots: demos, live codes, retour d'expérience, réflexions et discussions autour du sujet.
