@@ -34,6 +34,7 @@ Table of Contents
 * [MyBotShopper](https://www.mybotshopper.com/) - MyBotShopper vous permet d'interagir directement avec vos utilisateurs sur facebook
 * [OhMyBot](http://www.ohmybot.io/) - Bienvenue dans l'ère des bots!
 * [PlayBots](http://playbots.io/) - Convert your leads with your best product expert 24/7
+* [Thebotagency](http://thebotagency.xyz/) - Nous créons des chatbots intelligents pour vous et vos clients !
 
 ## French bots
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
