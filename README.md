@@ -49,6 +49,7 @@ Table of Contents
 * [LH Bot](https://www.facebook.com/LH-bot-1103637866423479) - Les bons spots Havrais, pose lui tes questions!
 * [L2-B2](http://m.me/hellolabringue) - Le guide de sorties pour bringueurs.
 * [Ask Mona](http://askmona.fr/) - Ask Mona te conseille des sorties culturelles qui collent à tes envies
+* [Freshr](http://www.freshr.fr/) - Freshr : comprendre l'actu en 2 mn chaque matin.
 
 ## Upcoming events
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
