@@ -20,6 +20,7 @@ Table of Contents
 * [Smartly](http://smartly.ai/) - All-in-one platform for voice and chatbots.
 * [Craft.ai](http://www.craft.ai/) - With craft ai, developers create services that adapt to each user in minutes. craft ai agents continuously take decisions based on context and learning.
 * [Botfuel](http://botfuel.io/) - Enterprise-ready chatbots
+* [ChatFuel](https://chatfuel.com/) - Full stack platform for creating an AI chatbot on Facebook. 
 
 ## Chatbot agency
 * [The Chatbot Factory](http://www.thechatbotfactory.com/) - Startup spécialiste des chatbots intelligents et évolutifs.
