@@ -50,6 +50,8 @@ Table of Contents
 * [L2-B2](http://m.me/hellolabringue) - Le guide de sorties pour bringueurs.
 * [Ask Mona](http://askmona.fr/) - Ask Mona te conseille des sorties culturelles qui collent à tes envies
 * [Freshr](http://www.freshr.fr/) - Freshr : comprendre l'actu en 2 mn chaque matin.
+* [Elly](https://www.getelly.com) - Elly, l’intelligence artificielle qui humanise et simplifie la rencontre en ligne.
+
 
 ## Upcoming events
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
