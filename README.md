@@ -37,6 +37,7 @@ Table of Contents
 * [Thebotagency](http://thebotagency.xyz/) - Nous créons des chatbots intelligents pour vous et vos clients !
 
 ## French bots
+
 * [Citron](http://m.me/meetcitron) - Les meilleurs lieux de Paris en 30s.
 * [Voyages-sncf](https://www.facebook.com/VbotMessenger/) - Un bot spécialiste du voyage en train.
 * [Sleek](https://www.messenger.com/t/184343611989882) - Votre assistant dédié à la culture.
@@ -52,6 +53,7 @@ Table of Contents
 * [Freshr](http://www.freshr.fr/) - Freshr : comprendre l'actu en 2 mn chaque matin.
 * [Elly](https://www.getelly.com) - Elly, l’intelligence artificielle qui humanise et simplifie la rencontre en ligne.
 
+> **More:** [Zebot](http://zebot.in/) - Annuaire des chatbots francophones
 
 ## Upcoming events
 * [Conference](http://www.dotai.io/) - *25/04/2017*, _Paris_ - The Artificial Intelligence & Machine Learning Conference for Developers
